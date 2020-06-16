@@ -9,17 +9,15 @@ const questions = [
     type: "input",
     name: "title",
     message: "What is the title of your project",
-    //default: "Ramon"
 },
 {
     type: "input",
     name: "description",
     message: "Describe ReadMe",
-    //default: "Houston"
   },
   {
     type: "input",
-    name: "Table of Contents",
+    name: "tableOfContents",
     message: "Table of Contents",
     default: "I II III IV V"
   },
